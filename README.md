@@ -1,2 +1,2 @@
-# python-api-challenge
-Module 6 Challenge
+# Adding config.py file.
+api_keys.py
